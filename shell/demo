@@ -1,0 +1,11 @@
+#include <stdio.h>
+/** Prints  simple Hello 
+ * 
+ * Returns 0 if success
+ */
+
+int main()
+{    
+printf("Hello C Language");    
+return 0;   
+}
